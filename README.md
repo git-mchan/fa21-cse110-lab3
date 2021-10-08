@@ -1,2 +1,2 @@
 # fa21-cse110-lab3
-https://git-mchan.github.io/cse110lab2/
+git-mchan.github.io/fa21-cse110-lab3/
