@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Lato-Black.ttf;
+  src: url(Lato-Black.ttf);
+}
 body {
   background-color: lightblue;
 }
@@ -5,15 +9,42 @@ body {
 /*whole page*/
 h1 {
   /*color scheme for background*/
-  color: navy;
-  margin-left: 20px;
+  color: hsl(217, 71%, 45%);
+  margin-left: 50px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-right: 400px;
+  margin: auto;
+  text-align: center;
+  text-decoration: underline;
 }
-
+h2 {
+  color: rgb(168, 49, 247);
+  padding-top: 15pt;
+  padding-left: 45pt;
+  padding-right: 4pt;
+  padding-bottom: 3pt;
+}
 h3 {
-  border: 1px;
+  background-color: #808080;
 }
 
-li {
+body {
   display: flex;
-  height: 300px;
+  border-style: solid;
+  border-color: cyan;
+  border-width: 2px;
+  border-radius: 3px;
+  padding: 10px 20px 30px 40px;
+}
+
+header {
+  display: grid;
+}
+
+.box {
+}
+
+#agenda {
+  border: blueviolet;
 }
