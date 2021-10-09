@@ -2,7 +2,13 @@ body {
   background-color: lightblue;
 }
 
+/*whole page*/
 h1 {
+  /*color scheme for background*/
   color: navy;
   margin-left: 20px;
+}
+
+h3 {
+  border: 1px;
 }
