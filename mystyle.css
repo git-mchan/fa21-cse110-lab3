@@ -12,3 +12,8 @@ h1 {
 h3 {
   border: 1px;
 }
+
+li {
+  display: flex;
+  height: 300px;
+}
